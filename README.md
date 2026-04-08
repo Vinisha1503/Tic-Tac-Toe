@@ -3,8 +3,6 @@ Python-based Tic Tac Toe game with Tkinter GUI, score tracking, and optional rul
 
 
 
-# Tic Tac Toe (Python)
-
 ## Overview
 This project is an interactive Tic Tac Toe game developed in Python using Tkinter. It supports both two-player gameplay and a single-player mode against a simple AI opponent. The application includes score tracking, winner highlighting, and a graphical home screen for mode selection.
 
