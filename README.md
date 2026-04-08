@@ -5,7 +5,7 @@ Python-based Tic Tac Toe game with Tkinter GUI, score tracking, and optional rul
   <img src="https://github.com/user-attachments/assets/4b4dffb9-3f2b-4fc0-bead-b1a3ca3f1190" width="35%" />
   <img src="https://github.com/user-attachments/assets/f82d318d-d394-4ae1-85c6-8e09200a3a53" width="45%" />
   <br>
-  <em>fig1: Initial board setup | fig2: Gameplay, depicting king + red for chosen piece.</em>
+  <em>fig1: Home Page | fig2: Gameplay </em>
 </p>
 
 ## Overview
