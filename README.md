@@ -2,7 +2,7 @@
 Python-based Tic Tac Toe game with Tkinter GUI, score tracking, and optional rule-based AI opponent.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd08f034-5a4c-4f08-a36f-752da89456d4" width="35%" />
+  <img src="https://github.com/user-attachments/assets/cd08f034-5a4c-4f08-a36f-752da89456d4" width="38%" />
   <img src="https://github.com/user-attachments/assets/f82d318d-d394-4ae1-85c6-8e09200a3a53" width="45%" />
   <br>
   <em>fig1: Home Page | fig2: Gameplay </em>
